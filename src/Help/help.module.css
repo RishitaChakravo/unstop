@@ -1,0 +1,15 @@
+
+button{
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    text-align : center;  
+}
+.help{
+    margin: 0.5em;
+    position: fixed;
+    right: 0px;
+}
+
+   
+
+    
